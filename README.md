@@ -2,4 +2,4 @@
 
 JUST ANOTHER REPOSITORY
 Hi there!!
-Chaaya here,ilike chocolates and candies!!
+Chaaya here,i like chocolates and candies!!
