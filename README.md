@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+JUST ANOTHER REPOSITORY
+Hi there!!
+Chaaya here,i like chocolates and candies!!
